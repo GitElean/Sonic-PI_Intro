@@ -287,65 +287,85 @@ in_thread do
 end
 
 in_thread do
-  sleep 24
+  sleep 22.5
   #Piano o voz (tambien puede ser solo de piano), Hansell
-  play 68,amp:2
+  play 62
   sleep 0.5
-  play 68,amp:2
-  sleep 0.6
-  play 61,amp:2
-  sleep 4
-  
-  play 62,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.6
-  play 64,amp:2
-  sleep 0.6
-  play 64,amp:2
-  sleep 2
-  
-  play 62,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.4
-  play 62,amp:2
-  sleep 0.4
-  play 68,amp:2
-  sleep 0.4
-  play 67,amp:2
-  sleep 0.4
-  play 67,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.4
-  play 62,amp:2
-  sleep 0.4
-  play 62,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.6
-  play 64,amp:2
-  sleep 0.6
-  play 64,amp:2
-  sleep 1
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 68
+  sleep 0.5
+  play 61
+  sleep 0.5
+  play 64
+  sleep 4.5
   
   
-  play 62,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.4
-  play 64,amp:2
-  sleep 0.4
-  play 62,amp:2
+  
+  
+  play 62
+  sleep 0.5
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 64
   sleep 0.6
-  play 64,amp:2
+  play 64
   sleep 0.6
-  play 64,amp:2
+  play 64
+  
+  sleep 2.8
+  play 62
+  sleep 0.5
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 68
+  sleep 0.5
+  play 61
+  sleep 0.5
+  play 64
+  sleep 4.5
+  
+  play 62
+  sleep 0.5
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.5
+  play 64
+  sleep 0.5
+  play 62
+  sleep 0.6
+  play 64
+  sleep 0.6
+  play 62
+  sleep 0.6
+  play 64
+  sleep 0.6
+  play 64
+  sleep 0.6
+  play 64
 end
